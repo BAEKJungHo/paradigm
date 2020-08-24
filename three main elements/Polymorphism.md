@@ -69,7 +69,7 @@ public class Kangaroo extends Animal {
 public class MainClass {
 	public static void main(String[] args) {
 		Horse horse = new Horse();
-    Kangaroo kangol = new Kangaroo();
+    		Kangaroo kangol = new Kangaroo();
     
 		/* 상속받은 말의 속성 */
 		horse.setName("얼룩말");
@@ -80,7 +80,7 @@ public class MainClass {
 		kangol.setLeg("다리 4개");
     
 		/* 말 구현체의 메서드 호출 */
-    horse.run();
+		horse.run();
 		horse.ridable("BAEKJH");
     
 	        /*  구현체의 메서드 호출 */
