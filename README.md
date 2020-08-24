@@ -13,4 +13,4 @@
   - 의존 역전 원칙(Dependency Inversion Principle)
 
 ## 👊 객체지향 생활체조
-  - [소트웍스 앤솔러지(ThoughtWorks Anthology)에서  객체지향 생활체조](https://github.com/BAEKJungHo/thoughtworks-anthology/blob/master/06.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0.md)
+  - [소트웍스 앤솔러지(ThoughtWorks Anthology)에서 소개한 객체지향 생활체조](https://github.com/BAEKJungHo/thoughtworks-anthology/blob/master/06.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0.md)
