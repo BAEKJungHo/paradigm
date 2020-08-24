@@ -1,6 +1,11 @@
 # 캡슐화(Encapsulation)
 
-캡슐화란 정보의 은닉이라고도 불리는데 내부 정보를 감춤으로써 외부 변경에 유연하게 대처하기 위해서 사용된다. 
+캡슐화란 내부 정보를 감춤으로써 외부 변경에 유연하게 대처하기 위해서 사용된다. 
+
+캡슐화를 정보 은닉(숨김)이라고 표현하는 블로그가 많은데 정확한 내용은 아래 두 논문을 참고하면 알 수 있다.
+
+- [Information distribution aspects of design methodology](https://kilthub.cmu.edu/articles/Information_distribution_aspects_of_design_methodology/6606470)
+- [On the Criteria To Be Used in Decomposing Systems into Modules](https://kilthub.cmu.edu/articles/On_the_criteria_to_be_used_in_decomposing_systems_into_modules/6607958)
 
 `외부 변경에 유연하게 대처`라는 의미는 외부에서 캡슐화한 클래스의 내부 속성이나 메서드에 함부로 접근하지 못하게해서 값의 변경을 막는 것이다. 캡슐화가 제대로 되어있지 않아
 외부에 의해 값이 변경된다면 경우에 따라서는 시스템 전체에 에러가 발생할 수도 있다.
