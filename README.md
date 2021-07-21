@@ -5,7 +5,8 @@
   - [상속(Inheritance)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-09-oop-inheritance.md)
   - [다형성(Polymorphism)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-11-oop-polymorphism.md)
     - [스프링과 다형성](https://github.com/BAEKJungHo/spring-core-principle#%EB%8B%A4%ED%98%95%EC%84%B1polymorphism--%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%BD%83)
-
+    - [객체지향의 꽃](https://github.com/BAEKJungHo/spring-core-principle#%EB%8B%A4%ED%98%95%EC%84%B1polymorphism--%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%BD%83)
+ 
 ## 👊 [객체지향의 5대 원칙(SOLID)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-13-oop-solid.md)
   - [단일 책임 원칙(Single Responsiblity Principle)](https://github.com/BAEKJungHo/clean-programming/blob/master/Clean%20Architecture/%EC%84%A4%EA%B3%84%20%EC%9B%90%EC%B9%99/SRP%20:%20%EB%8B%A8%EC%9D%BC%20%EC%B1%85%EC%9E%84%20%EC%9B%90%EC%B9%99.md)
   - [개방-폐쇄 원칙(Open-Closed Principle)](https://github.com/BAEKJungHo/clean-programming/blob/master/Clean%20Architecture/%EC%84%A4%EA%B3%84%20%EC%9B%90%EC%B9%99/OCP%20:%20%EA%B0%9C%EB%B0%A9-%ED%8F%90%EC%87%84%20%EC%9B%90%EC%B9%99.md)
