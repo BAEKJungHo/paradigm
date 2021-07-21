@@ -1,5 +1,9 @@
 # Object Oriented Programming
 
+객체 지향 프로그래밍(Object Oriented Programming)은 컴퓨터 프로그램을 명령어의 목록으로 보는 시각에서 벗어나 여러개의 독립된 단위, 즉 "객체"들의 `모임`으로 파악하고자 하는 것이다. 각각의 객체는 `메시지`를 주고받고, 데이터를 처리할 수 있다. (`협력`)
+
+객체지향 프로그래밍은 프로그램을 `유연`하고 변경에 `용이`하게 만들기 때문에 대규모 프로그램 개발에 적합하다.
+
 ## 👊 객체지향의 3대 요소(three main elements of oop)
   - [캡슐화(Encapsulation)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-08-oop-encapsulation.md)
   - [상속(Inheritance)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-09-oop-inheritance.md)
