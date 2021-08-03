@@ -18,7 +18,7 @@
   - [인터페이스 분리 원칙(Interface Segregation Principle)](https://github.com/BAEKJungHo/clean-programming/blob/master/Clean%20Architecture/%EC%84%A4%EA%B3%84%20%EC%9B%90%EC%B9%99/ISP%20:%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EB%B6%84%EB%A6%AC%20%EC%9B%90%EC%B9%99.md)
   - [의존 역전 원칙(Dependency Inversion Principle)](https://github.com/BAEKJungHo/clean-programming/blob/master/Clean%20Architecture/%EC%84%A4%EA%B3%84%20%EC%9B%90%EC%B9%99/DIP%20:%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%97%AD%EC%A0%84%20%EC%9B%90%EC%B9%99.md)
 
-## 👊 [객체지향 생활체조](https://github.com/BAEKJungHo/thoughtworks-anthology/blob/master/06.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0.md)
+## 👊 [소트웍스 앤솔러지(Thoughtworks Anthology) 객체지향 생활체조](https://github.com/BAEKJungHo/thoughtworks-anthology/blob/master/06.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0.md)
   - [9가지 규칙](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-14-oop-thoughtworksAnthology.md)
 
 ## 👊 [객체지향에 대한 사실과 오해](https://github.com/BAEKJungHo/the-essence-of-object-oriented)
