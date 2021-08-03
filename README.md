@@ -25,8 +25,6 @@
 
 ## 👊 [KISS(keep it short and simple) 원칙](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-20-oop-kiss.md)
 
-## 👊 [What is Domain class](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-21-oop-domainclass.md)
-
 ## 👊 [응집도(cohesion)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-22-oop-cohesion.md)
 
 ## 👊 [결합도(coupling)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-23-oop-coupling.md)
