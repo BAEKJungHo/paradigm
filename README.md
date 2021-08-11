@@ -30,3 +30,5 @@
 ## 👊 [결합도(coupling)](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-23-oop-coupling.md)
 
 ## 👊 [명시적 API vs 암묵적 API](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-24-oop-api.md)
+
+## 👊 [데메테르 법칙](https://github.com/BAEKJungHo/ddd/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%A0%EC%A0%80%20%EC%9E%85%EB%AC%B8/12.%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B7%9C%EC%B9%99%EC%9D%84%20%EC%A7%80%ED%82%A4%EB%8A%94%20%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8.md#%EB%8D%B0%EB%A9%94%ED%85%8C%EB%A5%B4-%EB%B2%95%EC%B9%99--%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EC%A1%B0%EC%9E%91%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%9B%90%EC%B9%99)
