@@ -147,6 +147,31 @@ IntStream.of(1, 15, 20, 3, 9)
 8. 제일 클래스(first-class) 콜렉션을 쓴다.
 9. 게터(getter)/세터(setter)/프로퍼티(property)를 쓰지 않는다.
 
+## CodeReview
+
+```typescript
+const useSharingStore = store.extraValues.sharingSetting.use === true
+```
+
+위 코드는 `디미터 법칙`을 위반한 코드입니다. 디미터 법칙을 위반하면 `메시지 체인(Message Chain)` 이라는 악취가 나게됩니다.
+
+> The Law of Demeter : 객체는 그것이 `내부적으로 보유`하고 있거나 `메시지`를 통해 확보한 정보만 가지고 `의사 결정`을 내려야 한다.
+
+마틴 파울러의 리팩토링 책을 인용하면
+
+__"요청의 왕래로 인해 클라이언트는 그 왕래 체제에 구속된다. 그 사이의 관계들에 수정이 발생할 때마다 클라이언트도 수정해야 한다."__
+
+즉, 현재 코드는 메시지 체인 방식에 구속되며, 메시지 체인에 속하는 어떠한 객체가 변경될때 클라이언트도 같이 변경되어야 합니다.
+
+저라면 다음과 같이 했었을 것 같습니다.
+
+1. store 엔티티에서 use 까지의 값을 반환할 수 있도록 메서드를 제공
+2. store.extraValues.sharingSetting.use === true 로직 자체를 store 엔티티에서 함수로 제공하여 사용
+
+둘 중 하나를 선택해서 사용했을 것 같습니다. 
+
+> store.ts 가 모듈이더라도 get.ts 에서 store 내부 구현 방식을 다 알아야할 필요는 없다고 생각합니다.
+
 ## References
 
 - Clean Code / 로버트 C. 마틴 저/박재호, 이해영 역 / 인사이트(insight) / 초판 3쇄 2016년 05월 25일
